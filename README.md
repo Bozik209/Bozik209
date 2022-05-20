@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center">Hello. Welcome to my Github profile. 👋</h1>
-<h2 align="center"> I'm Boaz</h2>
+<h2 align="center"> I'm Boaz Yakobi</h2>
 <h3 align="center">A passionate WEB developer from Isreal</h3>
 
 - 🌱 I’m currently learning **Fullstack Web-Development**
