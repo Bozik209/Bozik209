@@ -108,6 +108,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boaz209&show_icons=true&locale=en&layout=compact" alt="boaz209" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bozik209&show_icons=true&locale=en&layout=compact" alt="bozik209" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boaz209&show_icons=true&locale=en" alt="boaz209" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bozik209&show_icons=true&locale=en" alt="boaz209" /></p>
